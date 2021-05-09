@@ -1,0 +1,13 @@
+# 期中考
+- [main.cpp](./main.cpp)
+- [polynomial1.h](./polynomial1.h)
+  - [inputArrayBasedTerms](./polynomial1.h#L26)
+  - [ArrayBasedDifferentiation](./polynomial1.h#L83)
+  - [removeArrayBasedTerm](./polynomial1.h#L97)
+  - [inputLinkBasedTerms](./polynomial1.h#L147)
+  - [LinkBasedDifferentiation](./polynomial1.h#L242)
+  - [removeLinkBasedTerm](./polynomial1.h#L257)
+- [ArrayBag.h](./ArrayBag.h)
+  - [remove](./ArrayBag.h#L94)
+- [LinkedBag.h](./LinkedBag.h)
+  - [remove](./LinkedBag.h#L123)

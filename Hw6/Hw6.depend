@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1619191152 source:c:\users\rhy3h\dropbox\github\2018_ttu_ds\hw6\hw6\main.cpp
+	"BagInterface.h"
+	"ArrayBag.h"
+	"LinkedBag.h"
+	<iostream>
+	<string>
+	<cctype>
+
+1617699997 c:\users\rhy3h\dropbox\github\2018_ttu_ds\hw6\hw6\baginterface.h
+	<vector>
+
+1619191656 c:\users\rhy3h\dropbox\github\2018_ttu_ds\hw6\hw6\arraybag.h
+	"BagInterface.h"
+	<cstddef>
+	<string>
+
+1617699997 c:\users\rhy3h\dropbox\github\2018_ttu_ds\hw6\hw6\linkedbag.h
+	"BagInterface.h"
+	"Node.h"
+	<cstddef>
+
+1617699997 c:\users\rhy3h\dropbox\github\2018_ttu_ds\hw6\hw6\node.h
+

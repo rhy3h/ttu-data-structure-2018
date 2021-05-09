@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1619262340 source:c:\users\rhy3h\downloads\i3b24\mid\main.cpp
+	<iostream>
+	<string>
+	<cctype>
+	"polynomial1.h"
+	"BagInterface.h"
+	"ArrayBag.h"
+	"LinkedBag.h"
+
+1619262547 c:\users\rhy3h\downloads\i3b24\mid\polynomial1.h
+	<iostream>
+
+1448229942 c:\users\rhy3h\downloads\i3b24\mid\baginterface.h
+	<vector>
+
+1588769377 c:\users\rhy3h\downloads\i3b24\mid\arraybag.h
+	"BagInterface.h"
+	<cstddef>
+	<string>
+
+1588769373 c:\users\rhy3h\downloads\i3b24\mid\linkedbag.h
+	"BagInterface.h"
+	"Node.h"
+	<cstddef>
+	<string>
+
+1382344390 c:\users\rhy3h\downloads\i3b24\mid\node.h
+
+1619262340 source:c:\users\rhy3h\desktop\mid\mid\main.cpp
+	<iostream>
+	<string>
+	<cctype>
+	"polynomial1.h"
+	"BagInterface.h"
+	"ArrayBag.h"
+	"LinkedBag.h"
+
+1619332702 c:\users\rhy3h\desktop\mid\mid\polynomial1.h
+	<iostream>
+
+1448229942 c:\users\rhy3h\desktop\mid\mid\baginterface.h
+	<vector>
+
+1619264568 c:\users\rhy3h\desktop\mid\mid\arraybag.h
+	"BagInterface.h"
+	<cstddef>
+	<string>
+
+1619264578 c:\users\rhy3h\desktop\mid\mid\linkedbag.h
+	"BagInterface.h"
+	"Node.h"
+	<cstddef>
+	<string>
+
+1382344390 c:\users\rhy3h\desktop\mid\mid\node.h
+
+1619262340 source:c:\users\rhy3h\dropbox\github\2018_ttu_ds\mid\main.cpp
+	<iostream>
+	<string>
+	<cctype>
+	"polynomial1.h"
+	"BagInterface.h"
+	"ArrayBag.h"
+	"LinkedBag.h"
+
+1619370949 c:\users\rhy3h\dropbox\github\2018_ttu_ds\mid\polynomial1.h
+	<iostream>
+
+1448229942 c:\users\rhy3h\dropbox\github\2018_ttu_ds\mid\baginterface.h
+	<vector>
+
+1619336111 c:\users\rhy3h\dropbox\github\2018_ttu_ds\mid\arraybag.h
+	"BagInterface.h"
+	<cstddef>
+	<string>
+
+1619336118 c:\users\rhy3h\dropbox\github\2018_ttu_ds\mid\linkedbag.h
+	"BagInterface.h"
+	"Node.h"
+	<cstddef>
+	<string>
+
+1382344390 c:\users\rhy3h\dropbox\github\2018_ttu_ds\mid\node.h
+
